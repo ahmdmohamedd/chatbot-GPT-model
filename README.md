@@ -75,7 +75,7 @@ chatbot-GPT-model/
 Clone the chatbot repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/chatbot-GPT-model.git
+git clone https://github.com/ahmdmohamedd/chatbot-GPT-model.git
 ```
 
 ### 2. **Set Up OpenAI API Key (For OpenAI Integration)**  
