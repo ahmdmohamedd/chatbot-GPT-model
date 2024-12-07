@@ -12,8 +12,7 @@ A chatbot project leveraging GPT models to answer both dataset-specific and gene
 5. [Setup Instructions](#setup-instructions)  
 6. [Usage](#usage)  
 7. [Challenges](#challenges)  
-8. [Contribution](#contribution)   
-9. [Contact](#contact)
+8. [Contribution](#contribution)  
 
 ---
 
@@ -129,16 +128,5 @@ If you’re passionate about Natural Language Processing or working with GPT mod
 - API optimization or quota management tips.
   
 Please fork the repository, make necessary changes, and submit a **Pull Request**. Contributions, fixes, and insights are deeply appreciated!
-
----
-
-## **9. Contact**  
-
-If you have questions, suggestions, or insights:
-
-- **GitHub**: [https://github.com/ahmdmohamedd](https://github.com/ahmdmohamedd)  
-- **Email**: [your-email@example.com]
-
-Your contributions and advice are crucial in advancing this project. Let’s collaborate to make this chatbot model robust and scalable!
 
 ---
